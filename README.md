@@ -9,3 +9,7 @@ curl https://raw.githubusercontent.com/g0d0/laravel-installer/master/installer.s
 chmod +x laravel-installer.sh
 bash laravel-installer.sh
 ```
+
+# Tips
+
+See oficial doc to laravel project creation instructions: https://laravel.com/docs/7.x/installation#server-requirements
