@@ -12,4 +12,4 @@ bash laravel-installer.sh
 
 # Tips
 
-See oficial doc to laravel project creation instructions: https://laravel.com/docs/7.x/installation#server-requirements
+See oficial doc to laravel project creation instructions: https://laravel.com/docs/installation#server-requirements
